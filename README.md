@@ -1,4 +1,6 @@
-This is the repository to replicate the results of the paper "Learning from sanctioned government suppliers: A machine learning and network science approach to detecting fraud and corruption in Mexico".
+This is the repository to replicate the paper:
+
+Medina-Hernández, M., Kertész, J. & Fazekas, M. Learning from sanctioned government suppliers: a machine learning and network science approach to detecting fraud and corruption in Mexico. Sci Rep 16, 22382 (2026). https://doi.org/10.1038/s41598-026-48873-w
 
 The `scripts` folder contains all the python scripts to construct the dataset used for the analysis (`scripts/dataset_creation`) and the ones to replicate the experiments and figures in the main text (`scripts/main_text`).
 
